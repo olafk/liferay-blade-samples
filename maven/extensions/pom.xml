@@ -36,6 +36,7 @@
 		<module>search-keyword-query-contributor</module>
 		<module>search-model-pre-filter-contributor</module>
 		<module>servlet</module>
+		<module>servlet-filter</module>
 		<module>user-service-wrapper</module>
 	</modules>
 </project>
