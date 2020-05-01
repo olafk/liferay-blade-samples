@@ -49,8 +49,8 @@ public class BladeProductNavigationControlMenuEntry
 	implements ProductNavigationControlMenuEntry {
 
 	/**
-	 * Returns the icon to display in the Control Menu. By default, Lexicon
-	 * icons are expected to be returned. To view all the Lexicon icons
+	 * Returns the icon to display in the Control Menu. By default, Clay
+	 * icons are expected to be returned. To view all the Clay icons
 	 * available, see
 	 * <a href="http://v2.clayui.com/docs/components/icons.html">http://v2.clayui.com/docs/components/icons.html</a>.
 	 *
